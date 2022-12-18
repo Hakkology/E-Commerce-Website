@@ -1,0 +1,100 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Fashi Template" />
+    <meta name="keywords" content="Fashi, unica, creative, html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <title>@ViewBag.Title</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Muli:300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Muli:300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/themify-icons.css" type="text/css">
+    <link rel="stylesheet" href="~/css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="~/css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/style.css" type="text/css">
+    <link href="~/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div>
+
+        <!--Header Section Begin-->
+        @await Component.InvokeAsync("Header")
+        <!-- Header Section End -->
+
+        <div>
+            @RenderBody()
+        </div>
+
+        <!--Footer Section Begin-->
+        @await Component.InvokeAsync("Footer")
+        <!-- Footer Section End -->
+
+        <script src="~/twitter-bootstrap/js/bootstrap.js"></script>
+        <script src="~/jquery/jquery.js"></script>
+        <script src="~/js/jquery-3.3.1.min.js"></script>
+        <script src="~/js/bootstrap.min.js"></script>
+        <script src="~/js/jquery-ui.min.js"></script>
+        <script src="~/js/jquery.countdown.min.js"></script>
+        <script src="~/js/jquery.nice-select.min.js"></script>
+        <script src="~/js/jquery.zoom.min.js"></script>
+        <script src="~/js/jquery.dd.min.js"></script>
+        <script src="~/js/jquery.slicknav.js"></script>
+        <script src="~/js/owl.carousel.min.js"></script>
+
+        <script src="~/js/main.js"></script>
+        <script>
+            function AddToBasket(_productId, _count) {
+                $.ajax({
+                    url: '/Basket/AddToBasket',
+                    method: 'POST',
+                    data: {
+                        count: _count,
+                        productId: _productId
+                    },
+                    success: (data) => {
+                        console.log(data);
+                        RefreshBasket();
+                    },
+                    error: (data) => {
+                        console.log(data);
+                    }
+                });
+            }
+            $(document).ready(() => {
+                RefreshBasket();
+            });
+            function RefreshBasket() {
+                $.ajax({
+                    url: '/Basket/RefreshBasketCount',
+                    method: 'POST',
+                    success: (data) => {
+                        $('#baskt').html.data;
+                    },
+                    error: (data) => {
+                        console.log(data);
+                    }
+                });
+            }
+
+        </script>
+        @RenderSection("Script", false)
+    </div>
+</body>
+
+</html>
