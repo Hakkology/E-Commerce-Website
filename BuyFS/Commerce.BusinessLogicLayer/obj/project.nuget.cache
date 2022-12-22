@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fxXBCZ2GDQN46luE3Xm711Q4MfsHcZLH3gBd8Rt6laxS0k6PuW8k/KWRoTWHSKwPsGT+HVFLVCegISqsVjhiMQ==",
+  "dgSpecHash": "ME1Bz1zZqmEQ8kyU+njDklBxl1OQ9k+4G8G4wyjDHsDennAAf9JYsDLeHKDb2yRF+TPWapmGQ55zrNTJVAfdfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\Commerce.BusinessLogicLayer\\Commerce.BusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\Commerce.BusinessLogicLayer\\Commerce.BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yildi\\.nuget\\packages\\fluentvalidation\\8.6.3\\fluentvalidation.8.6.3.nupkg.sha512",
     "C:\\Users\\yildi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.22\\microsoft.aspnetcore.cryptography.internal.3.1.22.nupkg.sha512",

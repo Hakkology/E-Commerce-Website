@@ -10,3 +10,15 @@ C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Projects\Hakan.E-Comme
 C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Projects\Hakan.E-CommerceProject-1\BuyFS\BuyFS.Core\obj\Debug\net6.0\refint\BuyFS.Core.dll
 C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Projects\Hakan.E-CommerceProject-1\BuyFS\BuyFS.Core\obj\Debug\net6.0\BuyFS.Core.pdb
 C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Projects\Hakan.E-CommerceProject-1\BuyFS\BuyFS.Core\obj\Debug\net6.0\ref\BuyFS.Core.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\obj\Debug\net6.0\BuyFS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\obj\Debug\net6.0\BuyFS.Core.AssemblyInfoInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\obj\Debug\net6.0\BuyFS.Core.AssemblyInfo.cs
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\obj\Debug\net6.0\BuyFS.Core.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\obj\Debug\net6.0\BuyFS.Core.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\obj\Debug\net6.0\ref\BuyFS.Core.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\obj\Debug\net6.0\BuyFS.Core.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\bin\Debug\net6.0\BuyFS.Core.deps.json
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\bin\Debug\net6.0\BuyFS.Core.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\bin\Debug\net6.0\ref\BuyFS.Core.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\bin\Debug\net6.0\BuyFS.Core.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\GitHub Repos\E-Commerce-Website\BuyFS\BuyFS.Core\obj\Debug\net6.0\BuyFS.Core.csproj.AssemblyReference.cache

@@ -5889,24 +5889,27 @@
   },
   "packageFolders": {
     "C:\\Users\\yildi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\Commerce.BusinessLogicLayer\\Commerce.BusinessLogicLayer.csproj",
+      "projectUniqueName": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\Commerce.BusinessLogicLayer\\Commerce.BusinessLogicLayer.csproj",
       "projectName": "Commerce.BusinessLogicLayer",
-      "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\Commerce.BusinessLogicLayer\\Commerce.BusinessLogicLayer.csproj",
+      "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\Commerce.BusinessLogicLayer\\Commerce.BusinessLogicLayer.csproj",
       "packagesPath": "C:\\Users\\yildi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\Commerce.BusinessLogicLayer\\obj\\",
+      "outputPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\Commerce.BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\yildi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -5919,11 +5922,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj": {
-              "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj"
+            "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj": {
+              "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj"
             },
-            "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj"
+            "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj"
             }
           }
         }
@@ -5958,7 +5961,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

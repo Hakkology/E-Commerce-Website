@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj": {}
+    "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Core\\BuyFS.Core.csproj": {
+    "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Core\\BuyFS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Core\\BuyFS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Core\\BuyFS.Core.csproj",
         "projectName": "BuyFS.Core",
-        "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Core\\BuyFS.Core.csproj",
+        "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Core\\BuyFS.Core.csproj",
         "packagesPath": "C:\\Users\\yildi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Core\\obj\\",
+        "outputPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\yildi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -58,26 +60,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj": {
+    "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj",
         "projectName": "BuyFS.Entity",
-        "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj",
+        "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj",
         "packagesPath": "C:\\Users\\yildi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Entity\\obj\\",
+        "outputPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\yildi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -90,8 +94,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Core\\BuyFS.Core.csproj": {
-                "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Core\\BuyFS.Core.csproj"
+              "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Core\\BuyFS.Core.csproj": {
+                "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Core\\BuyFS.Core.csproj"
               }
             }
           }
@@ -126,26 +130,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj": {
+    "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj",
         "projectName": "MerchantFS.DataAccessLayer",
-        "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\MarketFS\\MerchantFS.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\yildi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\MarketFS\\obj\\",
+        "outputPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\MarketFS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\yildi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -158,8 +164,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj": {
-                "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj"
+              "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj": {
+                "projectPath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\BuyFS.Entity\\BuyFS.Entity.csproj"
               }
             }
           }
@@ -208,7 +214,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

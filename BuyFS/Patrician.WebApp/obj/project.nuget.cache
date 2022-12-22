@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ufeLk3NmJyBaf04WmXDaiaSzZCpkaQr8Y93SetQWJhIyXgcY7LMR1D8e3jj0BuKsaAAUDBbhFIzddSg4IxR7DQ==",
+  "dgSpecHash": "/f97ki3uAZcRya4f9QWeE1tshDJozgEwwwaR9TuPR4vzi9jQvTNgNNBstT1N4gNqXzZMxEKuRgzDNm8HRhPnjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\Projects\\Hakan.E-CommerceProject-1\\BuyFS\\Patrician.WebApp\\Patrician.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\yildi\\OneDrive\\Desktop\\My Files\\Work\\Programming\\GitHub Repos\\E-Commerce-Website\\BuyFS\\Patrician.WebApp\\Patrician.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yildi\\.nuget\\packages\\fluentvalidation\\8.6.3\\fluentvalidation.8.6.3.nupkg.sha512",
     "C:\\Users\\yildi\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
